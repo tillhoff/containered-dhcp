@@ -1,3 +1,5 @@
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/tillhoff/containered-dhcp/Publish%20image%20to%20docker%20hub)
+
 # containered dhcp
 DHCP in a container, based on dnsmasq.
 
